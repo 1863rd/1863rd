@@ -1,7 +1,7 @@
 <div align="center">
   <p float="left">
-    <img src="hu-tao-left.png" width="220" align="left">
-    <img src="hu-tao-right.png" width="220" align="right">
+    <img src="hutaoleft.png" width="220" align="left">
+    <img src="hutaoright1.png" width="220" align="right">
   </p>
 
   <br>
@@ -56,14 +56,6 @@
     &nbsp;&nbsp;&nbsp;
     <img src="hutao2.gif" width="210">
   </p>
-
-  <samp>
-    <b>─────── ⋆｡˚ ❀ ˚｡⋆ ───────</b>
-    <br>
-    <i>no refunds after crossing the afterlife</i>
-    <br>
-    <b>─────── ⋆｡˚ ❀ ˚｡⋆ ───────</b>
-  </samp>
 
   <br>
 </div>
