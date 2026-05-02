@@ -2,36 +2,34 @@
 
 <table>
   <tr>
-    <td align="center" width="30%">
-      <img src="hu-tao-left.png" width="255">
+    <td align="center" valign="middle" width="30%">
+      <img src="hu-tao-left.png" width="240">
     </td>
 
-    <td align="center" width="40%">
+    <td align="center" valign="middle" width="40%">
 
-<b>╭──────────── ✦ 1863rd ✦ ────────────╮</b>
+<b>╭── ⋆˚ 1863rd ˚⋆ ──╮</b>
 
+<br><br>
+
+<b>hu tao enjoyer</b>
 <br>
-
-<b>hu tao enjoyer</b><br>
 anime • manhwa • gaming
 
 <br><br>
 
-language:
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML">html</a>,
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS">css</a>,
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">javascript</a>,
+<b>language:</b>
+<br>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML">html</a> ·
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS">css</a> ·
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">javascript</a> ·
 <a href="https://www.python.org/">python</a>
 
 <br><br>
 
-focus:
-cybersecurity • linux • networks
-
-<br><br>
-
-currently:
-learning • building • breaking things
+<b>focus:</b>
+<br>
+cybersecurity · linux · networks
 
 <br><br>
 
@@ -39,22 +37,22 @@ learning • building • breaking things
 
 <br><br>
 
-<img src="hutao1.gif" width="82">
-&nbsp;&nbsp;&nbsp;
+<img src="hutao1.gif" width="78">
+&nbsp;&nbsp;
 <img src="hutao2.gif" width="150">
 
 <br><br>
 
-<i>ghostly code, crimson terminals</i>
+<i>crimson ghosts & quiet terminals</i>
 
-<br>
+<br><br>
 
-<b>╰────────────────────────────────────╯</b>
+<b>╰────────────────╯</b>
 
     </td>
 
-    <td align="center" width="30%">
-      <img src="hu-tao-right.png" width="255">
+    <td align="center" valign="middle" width="30%">
+      <img src="hu-tao-right.png" width="240">
     </td>
   </tr>
 </table>
