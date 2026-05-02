@@ -1,7 +1,7 @@
 <div align="center">
   <p float="left">
-    <img src="hu-tao-left.png" width="220" align="left">
-    <img src="hu-tao-right.png" width="220" align="right">
+    <img src="hu-tao-left.png" width="220" align="left" vspace="14">
+    <img src="hu-tao-right.png" width="220" align="right" vspace="14">
   </p>
 
   <br>
