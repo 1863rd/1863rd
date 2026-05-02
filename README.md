@@ -1,40 +1,37 @@
 <div align="center">
 
-  <br>
-
   <p>
-    <img src="hu-tao-left.png" width="240" align="left">
-    <img src="hu-tao-right.png" width="240" align="right">
+    <img src="hu-tao-left.png" width="245" align="left">
+    <img src="hu-tao-right.png" width="245" align="right">
   </p>
 
   <br>
 
   <samp>
-    <b>╭─── ⋆｡˚ 𓆩 1863rd 𓆪 ˚｡⋆ ───╮</b>
+    <b>╭── ⋆˚ 1863rd ˚⋆ ──╮</b>
     <br><br>
 
     <b>hu tao enjoyer</b>
     <br>
-    anime watcher • manhwa reader • dark theme lover
+    anime • manhwa • gaming
     <br><br>
 
     language:
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">html</a>,
     <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">css</a>,
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">javascript</a>,
-    <a href="https://www.python.org/">python</a>,
-    <a href="https://www.gnu.org/software/bash/">bash</a>
+    <a href="https://www.python.org/">python</a>
     <br>
 
     focus:
-    programming, cybersecurity, linux, networks
+    cybersecurity, linux, networks
     <br><br>
 
-    status:
-    coding quietly somewhere between bugs and butterflies
+    currently:
+    learning, building, breaking things
     <br><br>
 
-    <b>╰─── ghostly code, crimson terminals ───╯</b>
+    <b>╰── crimson ghosts & quiet terminals ──╯</b>
   </samp>
 
   <br><br>
@@ -43,21 +40,9 @@
 
   <br><br>
 
-  <img src="hutao1.gif" width="145">
-
-  <br><br>
-
-  <samp>
-    <b>━━━━━━༺❀༻━━━━━━</b>
-    <br>
-    <i>thanks for passing by</i>
-    <br>
-    <b>━━━━━━༺❀༻━━━━━━</b>
-  </samp>
-
-  <br><br>
-
-  <img src="hutao2.gif" width="320">
+  <img src="hutao1.gif" width="105">
+  &nbsp;&nbsp;&nbsp;
+  <img src="hutao2.gif" width="220">
 
   <br><br>
 
