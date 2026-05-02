@@ -3,14 +3,19 @@
   <br>
 
   <p>
-    <img src="hu-tao-left.png" width="245" align="left">
-    <img src="hu-tao-right.png" width="245" align="right">
+    <img src="hu-tao-left.png" width="240" align="left">
+    <img src="hu-tao-right.png" width="240" align="right">
   </p>
 
   <br>
 
   <samp>
-    <b>˚₊‧꒰ა 1863rd ໒꒱ ‧₊˚</b>
+    <b>╭─── ⋆｡˚ 𓆩 1863rd 𓆪 ˚｡⋆ ───╮</b>
+    <br><br>
+
+    <b>hu tao enjoyer</b>
+    <br>
+    anime watcher • manhwa reader • dark theme lover
     <br><br>
 
     language:
@@ -21,21 +26,15 @@
     <a href="https://www.gnu.org/software/bash/">bash</a>
     <br>
 
-    tools:
-    <a href="https://www.linux.org/">linux</a>,
-    <a href="https://git-scm.com/">git</a>,
-    <a href="https://github.com/">github</a>
+    focus:
+    programming, cybersecurity, linux, networks
     <br><br>
 
-    interests:
-    cybersecurity, programming, anime, manhwa
-    <br>
-
-    currently:
-    learning, building, breaking, fixing
+    status:
+    coding quietly somewhere between bugs and butterflies
     <br><br>
 
-    hu tao enjoyer ✦ dark theme enthusiast
+    <b>╰─── ghostly code, crimson terminals ───╯</b>
   </samp>
 
   <br><br>
@@ -44,21 +43,21 @@
 
   <br><br>
 
-  <img src="hutao1.gif" width="140">
+  <img src="hutao1.gif" width="145">
 
   <br><br>
 
   <samp>
-    <b>━━━━━━━━━━━━━━━━━━━━━━</b>
+    <b>━━━━━━༺❀༻━━━━━━</b>
     <br>
-    <i>may your code compile and your ghosts stay friendly</i>
+    <i>thanks for passing by</i>
     <br>
-    <b>━━━━━━━━━━━━━━━━━━━━━━</b>
+    <b>━━━━━━༺❀༻━━━━━━</b>
   </samp>
 
   <br><br>
 
-  <img src="hutao2.gif" width="300">
+  <img src="hutao2.gif" width="320">
 
   <br><br>
 
