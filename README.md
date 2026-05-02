@@ -2,82 +2,63 @@
 
   <br>
 
-  <h2>
-    <samp>˚₊‧꒰ა ✦ Welcome to my GitHub ✦ ໒꒱ ‧₊˚</samp>
-  </h2>
-
   <p>
-    <img src="hu-tao-left.png" width="320">
-    &nbsp;&nbsp;&nbsp;
-    <img src="hu-tao-right.png" width="320">
+    <img src="hu-tao-left.png" width="245" align="left">
+    <img src="hu-tao-right.png" width="245" align="right">
   </p>
 
   <br>
 
   <samp>
-    <b>╭────── ⋆｡˚ 𓆩 1863rd 𓆪 ˚｡⋆ ──────╮</b>
+    <b>˚₊‧꒰ა 1863rd ໒꒱ ‧₊˚</b>
     <br><br>
-    <b>Hu Tao enjoyer</b> ⟡ anime watcher ⟡ manhwa reader
-    <br><br>
-    I like clean code, dark themes, quiet terminals
+
+    language:
+    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">html</a>,
+    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">css</a>,
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">javascript</a>,
+    <a href="https://www.python.org/">python</a>,
+    <a href="https://www.gnu.org/software/bash/">bash</a>
     <br>
-    and learning how systems break, connect and stay secure.
+
+    tools:
+    <a href="https://www.linux.org/">linux</a>,
+    <a href="https://git-scm.com/">git</a>,
+    <a href="https://github.com/">github</a>
     <br><br>
-    <b>⌞ interests ⌝</b>
+
+    interests:
+    cybersecurity, programming, anime, manhwa
     <br>
-    programming • cybersecurity • Linux • networks
+
+    currently:
+    learning, building, breaking, fixing
     <br><br>
-    <b>⌞ hobbies ⌝</b>
-    <br>
-    gaming • anime • manga/manhwa • figures • setup aesthetic
-    <br><br>
-    <b>⌞ worlds I enjoy ⌝</b>
-    <br>
-    Genshin Impact • Honkai: Star Rail • Bloodborne • RDR2
-    <br><br>
-    <b>╰────── ⋆｡˚ may your code compile ˚｡⋆ ──────╯</b>
+
+    hu tao enjoyer ✦ dark theme enthusiast
   </samp>
 
   <br><br>
 
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=1863rd&style=for-the-badge&label=PROFILE%20VIEWS&color=b01a02&labelColor=1a1b27" />
-  </p>
+  <img width="170px" src="https://komarev.com/ghpvc/?username=1863rd&style=for-the-badge&label=PROFILE%20VIEWS&color=b01a02&labelColor=1a1b27">
 
-  <br>
+  <br><br>
 
-  <p>
-    <img src="hu-tao-chibi.png" width="260">
-  </p>
+  <img src="hutao1.gif" width="140">
 
-  <br>
-
-  <h3>
-    <samp>✦ Tech Stack ✦</samp>
-  </h3>
-
-  <p>
-    <img src="https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=ff4d4d">
-    <img src="https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=ff4d4d">
-    <img src="https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=ff4d4d">
-    <img src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=ff4d4d">
-    <img src="https://img.shields.io/badge/Bash-0d1117?style=for-the-badge&logo=gnubash&logoColor=ff4d4d">
-  </p>
-
-  <p>
-    <img src="https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=ff4d4d">
-    <img src="https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=ff4d4d">
-    <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=ff4d4d">
-    <img src="https://img.shields.io/badge/Cybersecurity-0d1117?style=for-the-badge&logo=hackthebox&logoColor=ff4d4d">
-  </p>
-
-  <br>
+  <br><br>
 
   <samp>
-    <b>˚₊‧꒰ა Thanks for visiting ໒꒱ ‧₊˚</b>
+    <b>━━━━━━━━━━━━━━━━━━━━━━</b>
     <br>
-    <i>ghosts, code and crimson terminals.</i>
+    <i>may your code compile and your ghosts stay friendly</i>
+    <br>
+    <b>━━━━━━━━━━━━━━━━━━━━━━</b>
   </samp>
+
+  <br><br>
+
+  <img src="hutao2.gif" width="300">
 
   <br><br>
 
