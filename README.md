@@ -1,13 +1,13 @@
 <div align="center">
   <p float="left">
-    <img src="hu-tao-left.png" width="220" align="left">
-    <img src="hu-tao-right.png" width="220" align="right">
+    <img src="hu-tao-left.png" width="220" align="left" vspace="22">
+    <img src="hu-tao-right.png" width="220" align="right" vspace="22">
   </p>
 
   <br>
 
   <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2500&pause=900&color=FF4D4D&center=true&vCenter=true&width=360&lines=%E2%9C%A6+1863rd+%E2%9C%A6;hu+tao+enjoyer;welcome+to+wangsheng+funeral+parlor"
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2500&pause=900&color=FF4D4D&center=true&vCenter=true&width=430&lines=%E2%9C%A6+1863rd+%E2%9C%A6;hu+tao+enjoyer;welcome+to+wangsheng+parlor"
     alt="Typing SVG"
   />
 
@@ -41,9 +41,9 @@
   </p>
 
   <p>
-    <img src="https://img.shields.io/badge/cybersecurity-0d1117?style=for-the-badge&labelColor=0d1117&logo=hackthebox&logoColor=ff4d4d">
-    <img src="https://img.shields.io/badge/linux-0d1117?style=for-the-badge&labelColor=0d1117&logo=linux&logoColor=ff4d4d">
-    <img src="https://img.shields.io/badge/networks-0d1117?style=for-the-badge&labelColor=0d1117&logo=gnometerminal&logoColor=ff4d4d">
+    <nobr>
+      <img src="https://img.shields.io/badge/cybersecurity-b01a02?style=for-the-badge&labelColor=0d1117&logo=hackthebox&logoColor=ff4d4d">&nbsp;<img src="https://img.shields.io/badge/linux-b01a02?style=for-the-badge&labelColor=0d1117&logo=linux&logoColor=ff4d4d">&nbsp;<img src="https://img.shields.io/badge/networks-b01a02?style=for-the-badge&labelColor=0d1117&logo=gnometerminal&logoColor=ff4d4d">
+    </nobr>
   </p>
 
   <img width="170px" src="https://komarev.com/ghpvc/?username=1863rd&style=for-the-badge&label=PROFILE%20VIEWS&color=b01a02&labelColor=1a1b27"/>
@@ -60,7 +60,7 @@
   <samp>
     <b>─────── ⋆｡˚ ❀ ˚｡⋆ ───────</b>
     <br>
-    <i>no refunds after crossing the afterlife</i>
+    <i>the 77th director welcomes you</i>
     <br>
     <b>─────── ⋆｡˚ ❀ ˚｡⋆ ───────</b>
   </samp>
