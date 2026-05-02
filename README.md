@@ -38,8 +38,7 @@
     <img src="https://img.shields.io/badge/networks-b01a02?style=flat-square&labelColor=0d1117&logo=gnometerminal&logoColor=ff4d4d">
   </p>
 
-  <img width="170px" src="https://komarev.com/ghpvc/?username=1863rd&style=for-the-badge&label=PROFILE%20VIEWS&color=b01a02&labelColor=1a1b27"/>
-
+  <img width="145px" src="https://komarev.com/ghpvc/?username=1863rd&style=flat&label=PROFILE%20VIEWS&color=b01a02&labelColor=1a1b27"/>
   <br>
   <br>
 
