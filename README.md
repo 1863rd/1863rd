@@ -26,18 +26,10 @@
   <br>
 
   <p>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-      <img src="https://img.shields.io/badge/html-0d1117?style=for-the-badge&logo=html5&logoColor=ff4d4d">
-    </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-      <img src="https://img.shields.io/badge/css-0d1117?style=for-the-badge&logo=css3&logoColor=ff4d4d">
-    </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-      <img src="https://img.shields.io/badge/javascript-0d1117?style=for-the-badge&logo=javascript&logoColor=ff4d4d">
-    </a>
-    <a href="https://www.python.org/">
-      <img src="https://img.shields.io/badge/python-0d1117?style=for-the-badge&logo=python&logoColor=ff4d4d">
-    </a>
+    <img src="https://img.shields.io/badge/html-0d1117?style=for-the-badge&logo=html5&logoColor=ff4d4d">
+    <img src="https://img.shields.io/badge/css-0d1117?style=for-the-badge&logo=css3&logoColor=ff4d4d">
+    <img src="https://img.shields.io/badge/javascript-0d1117?style=for-the-badge&logo=javascript&logoColor=ff4d4d">
+    <img src="https://img.shields.io/badge/python-0d1117?style=for-the-badge&logo=python&logoColor=ff4d4d">
   </p>
 
   <p>
