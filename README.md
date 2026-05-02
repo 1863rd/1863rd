@@ -19,8 +19,8 @@
       <a href="https://www.python.org/">python</a>
       <br>
       focus:
-      <a href="https://www.linux.org/">linux</a>,
       cybersecurity,
+      linux,
       networks
       <br><br>
       anime, manhwa, gaming
@@ -36,9 +36,11 @@
   <br>
   <br>
 
-  <img src="hutao1.gif" width="80" align="center">
-  &nbsp;&nbsp;
-  <img src="hutao2.gif" width="190" align="center">
+  <p align="center">
+    <img src="hutao1.gif" width="95">
+    &nbsp;&nbsp;&nbsp;
+    <img src="hutao2.gif" width="210">
+  </p>
 
   <br>
 </div>
