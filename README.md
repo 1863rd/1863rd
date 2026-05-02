@@ -41,9 +41,9 @@
   </p>
 
   <p>
-    <img src="https://img.shields.io/badge/cybersec-b01a02?style=flat-square&labelColor=0d1117&logo=hackthebox&logoColor=ff4d4d">
-    <img src="https://img.shields.io/badge/linux-b01a02?style=flat-square&labelColor=0d1117&logo=linux&logoColor=ff4d4d">
-    <img src="https://img.shields.io/badge/networks-b01a02?style=flat-square&labelColor=0d1117&logo=gnometerminal&logoColor=ff4d4d">
+    <img src="https://img.shields.io/badge/cybersec-b01a02?style=flat&labelColor=0d1117&logo=hackthebox&logoColor=ff4d4d">
+    <img src="https://img.shields.io/badge/linux-b01a02?style=flat&labelColor=0d1117&logo=linux&logoColor=ff4d4d">
+    <img src="https://img.shields.io/badge/networks-b01a02?style=flat&labelColor=0d1117&logo=gnometerminal&logoColor=ff4d4d">
   </p>
 
   <img width="170px" src="https://komarev.com/ghpvc/?username=1863rd&style=for-the-badge&label=PROFILE%20VIEWS&color=b01a02&labelColor=1a1b27"/>
